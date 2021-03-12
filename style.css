@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(230, 205, 178);
+}
+
+h1 {
+  color: green;
+  text-align: center;
+}
+
+p {
+  font-family: serif;
+  font-size: 20px;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
